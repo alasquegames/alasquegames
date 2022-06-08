@@ -1,0 +1,4 @@
+when started
+say(oi)
+say(tudo bem?)
+stop(all)
